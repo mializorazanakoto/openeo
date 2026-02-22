@@ -1,0 +1,59 @@
+[
+  {
+    "id": "V-101",
+    "name": "MSC AGADIR",
+    "type": "Container Ship",
+    "lat": -18.10,
+    "lng": 49.45,
+    "speed": 14.2,
+    "heading": "NE",
+    "status": "legal",
+    "alert": false
+  },
+  {
+    "id": "V-102",
+    "name": "CMA CGM TANZANIE",
+    "type": "Cargo",
+    "lat": -18.18,
+    "lng": 49.38,
+    "speed": 0.5,
+    "heading": "N",
+    "status": "legal",
+    "alert": false
+  },
+   {
+    "id": "V-103",
+    "name": "FISHING BO 44",
+    "type": "Fishing Trawler",
+    "lat": -18.05,
+    "lng": 49.50,
+    "speed": 8.5,
+    "heading": "S",
+    "status": "legal",
+    "alert": false
+  },
+  {
+    "id": "TARGET-ALPHA",
+    "name": "UNKNOWN",
+    "type": "Industrial Trawler",
+    "lat": -18.15,
+    "lng": 49.41,
+    "speed": 12.0,
+    "heading": "SW",
+    "status": "illegal",
+    "alert": true,
+    "confidence": 94,
+    "image": "https://images.unsplash.com/photo-1569263979104-865ab7dd8d3d?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "V-105",
+    "name": "ISLAND EXPRESS",
+    "type": "Passenger",
+    "lat": -18.22,
+    "lng": 49.43,
+    "speed": 22.0,
+    "heading": "N",
+    "status": "legal",
+    "alert": false
+  }
+]
